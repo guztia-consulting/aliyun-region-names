@@ -1,0 +1,135 @@
+[
+  {
+    "cn-qingdao": {
+      "RegionEndpoint": "ecs.aliyuncs.com",
+      "LocalName": "华北 1",
+      "GlobalName": "China North 1 (Qindao)"
+    }
+  },
+  {
+    "cn-beijing": {
+      "RegionEndpoint": "ecs.aliyuncs.com",
+      "LocalName": "华北 2",
+      "GlobalName": "China North 2 (Beijing)"
+    }
+  },
+  {
+    "cn-zhangjiakou": {
+      "RegionEndpoint": "ecs.cn-zhangjiakou.aliyuncs.com",
+      "LocalName": "华北 3",
+      "GlobalName": "China North 3 (Zhangjiakou)"
+    }
+  },
+  {
+    "cn-huhehaote": {
+      "RegionEndpoint": "ecs.cn-huhehaote.aliyuncs.com",
+      "LocalName": "华北 5",
+      "GlobalName": "China North 5 (Hohhot)"
+    }
+  },
+  {
+    "cn-hangzhou": {
+      "RegionEndpoint": "ecs.aliyuncs.com",
+      "LocalName": "华东 1",
+      "GlobalName": "China East 1 (Hangzhou)"
+    }
+  },
+  {
+    "cn-shanghai": {
+      "RegionEndpoint": "ecs.aliyuncs.com",
+      "LocalName": "华东 2",
+      "GlobalName": "China East 2 (Shanghai)"
+    }
+  },
+  {
+    "cn-shenzhen": {
+      "RegionEndpoint": "ecs.aliyuncs.com",
+      "LocalName": "华南 1",
+      "GlobalName": "China South 1 (Shenzhen)"
+    }
+  },
+  {
+    "cn-hongkong": {
+      "RegionEndpoint": "ecs.aliyuncs.com",
+      "LocalName": "香港",
+      "GlobalName": "Hong Kong"
+    }
+  },
+  {
+    "ap-northeast-1": {
+      "RegionEndpoint": "ecs.ap-northeast-1.aliyuncs.com",
+      "LocalName": "亚太东北 1 (东京)",
+      "GlobalName": "Asia Pacific NE 1 (Tokyo)"
+    }
+  },
+  {
+    "ap-southeast-1": {
+      "RegionEndpoint": "ecs.aliyuncs.com",
+      "LocalName": "亚太东南 1 (新加坡)",
+      "GlobalName": "Asia Pacific SE 1 (Singapore)"
+    }
+  },
+  {
+    "ap-southeast-2": {
+      "RegionEndpoint": "ecs.ap-southeast-2.aliyuncs.com",
+      "LocalName": "亚太东南 2 (悉尼)",
+      "GlobalName": "Asia Pacific SE 2 (Sydney)"
+    }
+  },
+  {
+    "ap-southeast-3": {
+      "RegionEndpoint": "ecs.ap-southeast-3.aliyuncs.com",
+      "LocalName": "亚太东南 3 (吉隆坡)",
+      "GlobalName": "Asia Pacific SE 3 (Kuala Lumpur)"
+    }
+  },
+  {
+    "ap-southeast-5": {
+      "RegionEndpoint": "ecs.ap-southeast-5.aliyuncs.com",
+      "LocalName": "亚太东南 5 (雅加达)",
+      "GlobalName": "Asia Pacific SE 5 (Jakarta)"
+    }
+  },
+  {
+    "ap-south-1": {
+      "RegionEndpoint": "ecs.ap-south-1.aliyuncs.com",
+      "LocalName": "亚太南部 1 (孟买)",
+      "GlobalName": "Asia Pacific SOU 1 (Mumbai)"
+    }
+  },
+  {
+    "us-east-1": {
+      "RegionEndpoint": "ecs.aliyuncs.com",
+      "LocalName": "美国东部 1 (弗吉尼亚)",
+      "GlobalName": "US East 1 (Virginia)"
+    }
+  },
+  {
+    "us-west-1": {
+      "RegionEndpoint": "ecs.aliyuncs.com",
+      "LocalName": "美国西部 1 (硅谷)",
+      "GlobalName": "US West 1 (Silicon Valley)"
+    }
+  },
+  {
+    "eu-west-1": {
+      "RegionEndpoint": "ecs.eu-west-1.aliyuncs.com",
+      "LocalName": "英国 (伦敦)",
+      "GlobalName": "UK (London)"
+    }
+  },
+  {
+    "me-east-1": {
+      "RegionEndpoint": "ecs.me-east-1.aliyuncs.com",
+      "LocalName": "中东东部 1 (迪拜)",
+      "GlobalName": "Middle East 1 (Dubai)"
+    }
+  },
+  {
+    "eu-central-1": {
+      "RegionEndpoint": "ecs.eu-central-1.aliyuncs.com",
+      "LocalName": "欧洲中部 1 (法兰克福)",
+      "GlobalName": "EU Central 1 (Frankfurt)"
+    }
+  }
+]
